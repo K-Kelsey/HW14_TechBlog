@@ -4,11 +4,11 @@
 ## INSTRUCTIONS
 This project is designed to allow the user to create and account and post, delete, or update blog posts when signed in to the application.
 ## Table of Contents
-* [Installation:] (#installation)
-* [Usage:] (#usage)
-* [License:](license)
-* [Contribution:] (#contributing)
-* [Testing:] (#tests)
+* [Installation:](#installation)
+* [Usage:](#usage)
+* [License:](#license)
+* [Contribution:](#contributing)
+* [Testing:](#tests)
 * [Questions?](#questions)
 
 ## Installation
