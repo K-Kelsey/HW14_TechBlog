@@ -4,12 +4,12 @@
 ## INSTRUCTIONS
 This project is designed to allow the user to create and account and post, delete, or update blog posts when signed in to the application.
 ## Table of Contents
-*[Installation:] (#installation)
-*[Usage:] (#usage)
-*[License:](license)
-*[Contribution:] (#contributing)
-*[Testing:] (#tests)
-*[Questions?](#questions)
+* [Installation:] (#installation)
+* [Usage:] (#usage)
+* [License:](license)
+* [Contribution:] (#contributing)
+* [Testing:] (#tests)
+* [Questions?](#questions)
 
 ## Installation
 To install this app so that it functions properly, clone my github repository, open the integrated terminal tied to the current project folder, then run 'npm install' in your terminal. This should download all necessary packages.
